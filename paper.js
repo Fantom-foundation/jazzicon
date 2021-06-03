@@ -1,6 +1,5 @@
 function newPaper(diameter, color) {
   var container = document.createElement('div')
-  container.style.borderRadius = '50px'
   container.style.overflow = 'hidden'
   container.style.padding = '0px'
   container.style.margin = '0px'
